@@ -1,0 +1,25 @@
+package practiseJava;
+
+import java.util.Scanner;
+
+public class Practise_002 {
+	public static void main(String[] args) {
+		
+		Scanner Sum = new Scanner(System.in);
+		
+		System.out.println("Enter the integer value of a");
+		int a = Sum.nextInt();
+		
+		System.out.println("Enter the integer value of b");
+		int b = Sum.nextInt();
+		
+		System.out.println("Enter the integer value of c");
+		int c = Sum.nextInt();
+		
+		int add = a+b+c;
+		System.out.println("The addition of the given no. is " +add);
+		
+		Sum.close();
+	}
+
+}

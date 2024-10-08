@@ -1,0 +1,10 @@
+package coreJavaLearning;
+
+import java.util.Scanner;
+
+public class P004_UserInput {
+	public static void main(String[] args) {
+		 Scanner
+	}
+
+}

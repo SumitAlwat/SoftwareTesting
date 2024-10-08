@@ -1,0 +1,13 @@
+package coreJavaLearning;
+
+public class P003_TypeCasting {
+	public static void main(String[] args) {
+		int a=4;
+		float f=5.111f;
+		float c=(float)a+f;
+		System.out.println(c);
+		
+		int s= (int)9.15488;
+		System.out.println(s);
+	}
+}

@@ -1,0 +1,23 @@
+package practiseJava;
+
+import java.util.Scanner;
+
+public class Practise_001 {
+	public static void main(String[] args) {
+	
+		Scanner marks = new Scanner(System.in);
+		
+		System.out.println("Enter the marks of sub1 b/w 0 to 100");
+		int sub1 = marks.nextInt();
+		
+		System.out.println("Enter the marks of sub2 b/w 0 to 100");
+		int sub2 = marks.nextInt();
+		
+		System.out.println("Enter the marks of sub3 b/w 0 to 100");
+		int sub3 = marks.nextInt();
+		
+		float Per = (float) (sub1+sub2+sub3)/3  ;
+		System.out.println("The percentage is " +Per+"%");
+		
+	}
+}
