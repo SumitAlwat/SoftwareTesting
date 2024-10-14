@@ -29,8 +29,8 @@ public class P010_Arrays {
 			for(int index=0;index<a.length;index++) {
 				System.out.print("enter number at a["+index+"] : ");
 				a[index] = sc.nextInt();
-			}
-			
+			}			
+			sc.close();
 			for(int index=0;index<a.length;index++) {
 				System.out.println(a[index]);
 		}

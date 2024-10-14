@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-        <listEntry value="/MyJavaProjects/src/Projects/Pr028.java"/>
+        <listEntry value="/MyJavaProjects22/src/Projects/Pr028.java"/>
     </listAttribute>
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
         <listEntry value="1"/>
@@ -9,5 +9,5 @@
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
     <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="Projects.Pr028"/>
     <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="MyJavaProjects"/>
-    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="MyJavaProjects"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="MyJavaProjects22"/>
 </launchConfiguration>
