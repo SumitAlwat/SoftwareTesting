@@ -1,8 +1,0 @@
-package coreJavaLearning;
-
-public class DataTypes {
-	public static void main(String[] args) {
-		int a=5;
-		System.out.println("the value of a is "+a);
-	}
-}
