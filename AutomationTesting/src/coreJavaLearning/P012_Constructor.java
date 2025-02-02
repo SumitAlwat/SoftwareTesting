@@ -31,7 +31,7 @@ public class P012_Constructor {
 	public static void main(String[] args) {
 		Data d = new Data();
 		d.show();
-		Data dś1 = new Data(12);
+		Data d1 = new Data(12);
 		d1.show();
 		Data d2 = new Data(12, "java");
 	}
